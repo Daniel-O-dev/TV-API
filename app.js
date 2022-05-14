@@ -3,10 +3,13 @@ const userInput = document.getElementById('searchInput');
 const tbody = document.getElementById('tBody');
 const tbl = document.getElementById('tbl');
 
+tbl.hidden = true
 
 
 form.addEventListener('keyup', async (e) => {
     e.preventDefault();
+tbl.hidden = false
+
     tbody.innerText = '';
 
     const res = await axios.get(
