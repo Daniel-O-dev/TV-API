@@ -3,6 +3,8 @@ The website allows users to search for shows and returns a brief description to 
 
 This is an app that uses [tv Maze api](https://www.tvmaze.com/api)
 
+Live Demo: [TV Search]("https://danielo-tvsearch.netlify.app")
+
 ## Screenshots
 
 <img src="https://github.com/Daniel-O-dev/TV-API/blob/f7f3e19a16232336a8bf8ad01998fab88646d420/screenshots/home-page.png" alt="homepage" title="homepage" >
