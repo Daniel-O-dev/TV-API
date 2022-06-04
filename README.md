@@ -5,6 +5,9 @@ This is an app that uses [tv Maze api](https://www.tvmaze.com/api)
 
 Live Demo: [TV Search](https://dice-generator.netlify.app)
 
+## Gif
+<img src="https://github.com/Daniel-O-dev/TV-API/blob/4261077de43cfe550479a5f12481fb7b764f90af/screenshots/ezgif.com-gif-maker.gif" alt="gif" title="gif" >
+
 ## Screenshots
 
 <img src="https://github.com/Daniel-O-dev/TV-API/blob/f7f3e19a16232336a8bf8ad01998fab88646d420/screenshots/home-page.png" alt="homepage" title="homepage" >
