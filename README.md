@@ -3,7 +3,7 @@ The website allows users to search for shows and returns a brief description to 
 
 This is an app that uses [tv Maze api](https://www.tvmaze.com/api)
 
-Live Demo: [TV Search](https://dice-generator.netlify.app)
+Live Demo: [TV Search](https://danielo-tvsearch.netlify.app/)
 
 ## Gif
 <img src="https://github.com/Daniel-O-dev/TV-API/blob/4261077de43cfe550479a5f12481fb7b764f90af/screenshots/ezgif.com-gif-maker.gif" alt="gif" title="gif" >
